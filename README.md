@@ -3,7 +3,7 @@
 
 
 ##Notes:
-* Grails version 4.2.2
+* Grails version 2.4.2
 * JDK 1.7
 * Grails setup behind proxy
 	* if behind NTLM proxy server , use this program [CNTLM](http://cntlm.sourceforge.net/)
